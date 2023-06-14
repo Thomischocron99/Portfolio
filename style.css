@@ -1,0 +1,563 @@
+#cabecera_inicio {
+    background-color: rgb(255, 255, 255);
+    
+}
+
+.nav-link:hover {color:  rgb(219, 224, 71);} 
+
+#seccion_inicio {
+    background-color: rgb(255, 255, 255);
+    
+}
+
+#modulo3 {
+    height: 100%;
+}
+
+#inicio2 {
+    margin-top: 30px;
+    background-color:  rgb(219, 224, 71);
+    margin-left: 10px;
+    margin-right: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    
+}
+#inicio2 a {
+    margin-bottom: 5px;
+}
+
+.chica {
+    text-align: center;
+    color: rgb(0, 0, 0);
+    margin-top: 15px;
+} 
+
+#modulo4 {
+    margin-top: 25px;
+}
+
+.card-title {text-align: center;}
+.card-text {text-align: center;}
+
+
+#footerinicio{
+    margin-top: 5%;
+    height: 100px;
+}
+
+#p {
+    font-size: 10px
+}
+
+#redes img{
+    height: 50px;
+}
+#redes li{
+    display: inline-flex;
+    float: right;
+    padding-right: 20px;
+    margin-top: 30px;
+}
+#ubi p{
+    margin-left: 10px;
+    color: #f9f9f7;
+}
+
+
+
+#contacto1 {
+    margin-top: 70px;
+   text-align: center;
+}
+
+
+#modulo7 {
+    height:250px;  
+    margin-top: 70px;
+}
+
+
+#modulo8 {
+
+    padding-top: 100px;
+}
+
+#col1 {
+    background-color:  rgb(219, 224, 71);
+    margin-right: 5px; margin-left: 100px; height: 70px;
+}
+
+#col2 {
+    background-color: rgb(219, 224, 71);
+    margin-right: 5px; height: 70px
+}
+
+
+#col3 {
+    background-color:  rgb(219, 224, 71);
+    height: 70px 
+}
+
+.red {
+    width: 50px;margin-top: 10px;
+}
+
+#botonformulario{
+    margin-top: 10px;
+    float: left;
+}
+
+
+
+
+.container {
+    background-color:  rgb(140, 224, 71);
+    height: 100%;
+   
+}
+
+
+#aboutoliimg {
+    position: relative;
+    
+    width: 400px;
+    height: auto;
+    margin-top: 40px;
+}
+
+/* #aboutolitext {
+    font-size: xx-large;
+    color: white;
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: justify;
+} */
+
+#aboutusimg {
+    background-color:  rgb(219, 224, 71);
+
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    width: 50%;
+    
+    
+}
+
+.aboutustitle {
+    margin-top: 30px;
+    color: white;
+    background-color: rgb(219, 224, 71) ;
+    display: flex;
+    justify-content: center;
+}
+
+.img-fluid{
+    width: 70%;
+    margin-bottom: 2%;
+
+}
+
+
+.aboutustext{
+
+    font-size: x-large;
+    position: relative;
+    color: white;
+    text-align: justify;
+    justify-content: center;
+    align-content: center;
+    margin-top: 10px;
+    margin-right: 50px;
+    margin-left: 50px;
+    
+}
+
+
+
+#aboutus {
+    background-color: rgb(219, 224, 71);
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    width: 50%;
+    
+}
+
+
+
+#seguinos{
+    margin-top: 80px;
+}
+
+#sesion{
+    margin-top: 50px;
+}
+
+
+
+.cont_inicio {
+   
+    gap: 0px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  .buscador_inicio {
+    position: relative;
+    min-width: 300px;
+    display: flex;
+    justify-items: center;
+    align-items: center;
+    max-width: 400px;
+    margin-bottom: 70px;
+  }
+  
+  .buscador_inicio svg {
+    position: absolute;
+    right: 20px;
+  }
+  
+  .buscador_inicio input {
+    height: 44px;
+    background: transparent;
+    padding: 0 20px;
+    font-size: 16px;
+    color: black;
+    width: 100%;
+    border: 1px solid #000;
+    border-radius: 32px;
+  }
+  
+  .buscador_inicio input::placeholder {
+    color: rgb(53, 53, 53);
+  }
+  
+  .buscador_inicio {
+    color: rgb(53, 53, 53);
+  }
+
+.galeria {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+
+  }
+  .card {
+    width: 15%;
+    border-radius: 20%;
+    
+  }
+  .cuerpo-imagenes {
+    position: absolute;
+    bottom: 0;
+    padding-left: 3%;
+    padding-right: 3%;
+    background-color: rgba(245, 245, 220, 0.288);
+    border-bottom-left-radius: 25%;
+    border-bottom-right-radius: 25%;
+    padding-bottom: 10%;
+
+    width: 100%;
+    height: 45%;
+  }
+  .cuerpo-imagenes h3,
+  .cuerpo-imagenes p {
+    margin-bottom: 0;
+    
+   
+  }
+  .card img {
+    width: 100%;
+    object-fit: cover;
+    border-radius: 20%;
+    height: 100%;
+  }
+
+  .card-body{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    height: 100%; 
+    align-items: center;
+  }
+
+  .cardfooter{
+    /* background-color: rgba(245, 245, 220, 0.288); 
+    background-color: aqua;
+    border-bottom-right-radius: 70%;
+    border-bottom-left-radius: 100%; */
+    padding-bottom: 2%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+  }
+ .cardindex{
+    margin-right: 10px;
+    position: relative;
+    padding: 10px;
+    border: solid 1px grey;
+ }
+
+ .cardindex img {
+    width: 300px;
+    object-fit: cover;
+    height: 300px;
+    border-radius: 20%;
+  }
+
+
+
+
+/* esto solo sirve para la parte de menu asi tiene un mejor responsive */
+@media  (max-width: 1440px) {
+
+    .card {
+        width: 30%;
+        border-radius: 20%;
+        margin-bottom: 5%;
+        
+    }
+
+    .cuerpo-imagenes h3,
+    .cuerpo-imagenes p {
+    font-size: medium;
+
+    }
+}  
+
+@media  (max-width: 800px) {
+    nav { display: none; }
+
+    .aboutustext{
+
+        font-size: large;
+        position: relative;
+        color: white;
+        text-align: justify;
+        justify-content: center;
+        align-content: center;
+        margin-top: 10px;
+        margin-right: 50px;
+        margin-left: 50px;
+        margin-bottom: 80px;
+        
+    }
+
+    .aboutustitle {
+        margin-top: 30px;
+        color: white;
+        background-color: rgb(219, 224, 71) ;
+        display: flex;
+        justify-content: center;
+    }
+
+    .img-fluid{
+        width: 70%;
+        height: 80%;
+    
+    }
+    #aboutoliimg {
+        width: 70%;
+        height: 70%;
+        margin-top: 80px;
+    }
+
+    .card {
+        width: 30%;
+        border-radius: 20%;
+        
+    }
+
+    .cuerpo-imagenes h3,
+    .cuerpo-imagenes p {
+    font-size: medium;
+    }
+
+    .cuerpo-imagenes {
+        
+        height: 55%;
+      }
+
+
+}
+
+
+/* esto solo sirve para la parte de about us y menu asi tiene un mejor responsive */
+@media  (max-width: 765px) {
+
+    nav { display: none; }
+
+    #footerinicio{
+        height: 100%;
+        margin: 0%;
+        margin-top: 5%;
+    }
+
+    .aboutustext{
+
+        font-size: medium;
+        position: relative;
+        color: white;
+        text-align: justify;
+        justify-content: center;
+        align-content: center;
+        margin-right: 50px;
+        margin-left: 50px;
+        
+    }
+
+    .aboutustitle {
+        margin-top: 20px;
+        color: white;
+        background-color: rgb(219, 224, 71) ;
+        display: flex;
+        justify-content: center;
+    }
+
+    #aboutusimg {
+        background-color:  rgb(219, 224, 71);
+    
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+        width: 100%;
+        
+        
+    }
+    #aboutus {
+        background-color: rgb(219, 224, 71);
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+        width: 100%;
+        
+    }
+
+    #redes img{
+        height: 30px;
+    }
+    #redes {
+        max-height: 50px;   
+        display: flex; 
+        align-items: center;
+        justify-content: center;}
+        
+    #redes li{
+        display:block;
+        margin-bottom: 50px;
+        
+    }
+
+    .card {
+        width: 100%;
+        margin-bottom: 30px;
+        border-radius: 20%;
+        
+    }
+
+
+}
+
+
+
+@media  (max-width: 480px) {
+
+    footer {display: block; align-items: center;}
+    #redes img{
+        height: 30px;
+    }
+    #redes {
+        max-height: 50px;   
+        display: flex; 
+        align-items: center;
+        justify-content: center;}
+        
+    #redes li{
+        display:block;
+        margin-bottom: 50px;
+        
+    }
+    #footerinicio{
+        height: 100%;
+        margin: 0%;
+        margin-top: 5%;
+    }
+    .tabla {display: block; width: 75%;}
+
+    .aboutustext{
+
+        font-size: small;
+        position: relative;
+        color: white;
+        text-align: justify;
+        justify-content: center;
+        align-content: center;
+        margin-right: 50px;
+        margin-left: 50px;
+        
+    }
+
+    .aboutustitle {
+        margin-top: 20px;
+        color: white;
+        background-color: rgb(219, 224, 71) ;
+        display: flex;
+        justify-content: center;
+    }
+
+    #aboutusimg {
+        background-color:  rgb(219, 224, 71);
+    
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+        width: 100%;
+        
+        
+    }
+    #aboutus {
+        background-color: rgb(219, 224, 71);
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+        width: 100%;
+        
+    }
+
+    .card {
+        width: 100%;
+        margin-bottom: 30px;
+        border-radius: 20%;
+        
+    }
+
+    .cuerpo-imagenes h3,
+    .cuerpo-imagenes p {
+        font-size: smaller;
+    }
+
+
+
+
+    
+    }
+
+    
+
+
+ 
+
+    
+
+
+        
+    
